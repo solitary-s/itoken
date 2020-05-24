@@ -1,4 +1,0 @@
-com\funtl\itoken\service\redis\RedisApplication.class
-com\funtl\itoken\service\redis\service\impl\RedisServiceImpl.class
-com\funtl\itoken\service\redis\controller\RedisController.class
-com\funtl\itoken\service\redis\service\RedisService.class
