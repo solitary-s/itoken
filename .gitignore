@@ -1,5 +1,5 @@
 ### Maven template ###
-/target/
+target/
 !.mvn/wrapper/maven-wrapper.jar
 pom.xml.tag
 pom.xml.releaseBackup
@@ -60,5 +60,3 @@ hs_err_pid*
 *.zip
 *.tar.gz
 *.rar
-
-/classes/
