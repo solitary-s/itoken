@@ -24,7 +24,7 @@
         <alibaba-druid.version>1.1.10</alibaba-druid.version>
         <tk-mybatis.version>2.0.2</tk-mybatis.version>
         <com-github-pagehelper.version>1.2.5</com-github-pagehelper.version>
-        <mysql.version>5.1.47</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
 
         <nekohtml.version>1.9.22</nekohtml.version>
         <lombok.version>1.18.12</lombok.version>
