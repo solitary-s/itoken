@@ -29,7 +29,7 @@
         <nekohtml.version>1.9.22</nekohtml.version>
         <lombok.version>1.18.12</lombok.version>
         <guava.version>20.0</guava.version>
-        <jackson.version>2.9.3</jackson.version>
+        <jackson.version>2.12.1</jackson.version>
         <common-lang3.version>3.8.1</common-lang3.version>
         <servlet-api.version>4.0.1</servlet-api.version>
         <persistence-api.version>1.0</persistence-api.version>
